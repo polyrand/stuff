@@ -5,5 +5,7 @@
 
 # Allow list
 !Makefile
+!README.md
 
-
+!data_structures
+!data_structures/bloom_filters.ipynb
