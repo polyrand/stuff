@@ -16,6 +16,9 @@ from markupsafe import escape
 _QName = ET.QName
 
 
+# Copied from the original LXML source code, added a call to `escape` before
+# generating the text. It doesn't generate useful elements, it's just to
+# showcase how this could eventually be done.
 class ElementMaker:
     """Element generator factory.
 
