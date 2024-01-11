@@ -9,3 +9,11 @@
 
 !data_structures
 !data_structures/bloom_filters.ipynb
+!lxml-html
+!lxml-html/app-basic.py
+!lxml-html/app-class.py
+!lxml-html/app-custom-elem-maker.py
+!lxml-html/app-daisyui.py
+!lxml-html/app-full.py
+!lxml-html/app-state.py
+!lxml-html/bench.py
